@@ -1,0 +1,8 @@
+p{
+    color:green;
+    font-size: 200%;
+    background-color:powderblue;
+    padding: 40px 20px 40px 20px;
+    border: 2px  solid black;
+    box-sizing: border-box;
+}
